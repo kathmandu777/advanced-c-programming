@@ -1,0 +1,8 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.html": "django-html",
+        "typeinfo": "c"
+    }
+}
